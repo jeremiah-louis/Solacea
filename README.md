@@ -2,7 +2,7 @@
 
 <img alt="Solacea Medium Banner" src="https://github.com/user-attachments/assets/0ec821a6-d1e2-45fb-b036-9f6767b55c7f">
 
-
+ 
 ## Objective
 Our MVP aims to provide doctors with actionable insights to aid in **adjuvant chemotherapy (ACT)** decision-making for patients with **stage II/III colorectal cancer**. Using **ctDNA (circulating tumor DNA)** data from clinical studies, our system helps guide treatment recommendations, focusing on precision, early intervention, and personalized care.
 
